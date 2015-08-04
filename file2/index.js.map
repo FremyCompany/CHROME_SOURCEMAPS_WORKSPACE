@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["index-src.js"],"names":["showMessage","txt","alert"],"mappings":"IAAK,YAKJ,QAASA,GAAYC,GACpBC,MAAMD,GAJPD,EAAY","sourcesContent":["void function() {\r\n\t\r\n\tshowMessage(\"hello!\");\r\n\t\r\n\t//-----------------------------------------------\r\n\tfunction showMessage(txt) {\r\n\t\talert(txt);\r\n\t}\r\n\t\r\n}();"]}

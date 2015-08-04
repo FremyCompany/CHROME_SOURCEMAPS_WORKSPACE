@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"names":["showMessage","txt","alert"],"mappings":"IAAK,YAKJ,QAASA,GAAYC,GACpBC,MAAMD,GAJPD,EAAY","sourcesContent":["void function() {\r\n\t\r\n\tshowMessage(\"file3b\");\r\n\t\r\n\t//-----------------------------------------------\r\n\tfunction showMessage(txt) {\r\n\t\talert(txt);\r\n\t}\r\n\t\r\n}();"]}
